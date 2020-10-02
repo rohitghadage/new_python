@@ -10,7 +10,8 @@ class tringle(polygon):
 
 class square(polygon):
     def sides(self):
-        print("I have 4 sides")
+        print("I have 4"
+              " sides")
 
 class pentagone(polygon):
     def sides(self):
