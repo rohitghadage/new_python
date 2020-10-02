@@ -13,3 +13,10 @@ except ValueError as e:
     print("invalid input",e)
 finally:
     print("done")
+
+    a = 5
+    b = 0
+try:
+    print(a/b)
+except Exception:
+    print("wrong")
