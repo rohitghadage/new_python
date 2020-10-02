@@ -7,8 +7,8 @@ for j in range(a):
 
 print("the values of an array are:")
 
-for k in arr:
-    print(k)
+for j in arr:
+    print(j)
 
 key=int(input("enter the key value:"))
 m=0
